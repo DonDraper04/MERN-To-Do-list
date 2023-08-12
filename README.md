@@ -1,4 +1,4 @@
-MERN Web To-Do List
+# MERN Web To-Do List
 
 A simple yet efficient To-Do list web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). Users can add tasks, mark them as done, and delete tasks.
 Features
@@ -20,7 +20,7 @@ Steps:
 
 Replace <Your MongoDB Connection String> with the actual connection string of your MongoDB database.
 
-*Getting Started:
+# Getting Started:
 
 Clone the Repository:
 
@@ -29,7 +29,8 @@ Clone the Repository:
 
 Install Dependencies:
 
-# Navigate to frontend and backend directories to install dependencies in both
+Navigate to frontend and backend directories to install dependencies in both
+
     cd frontend && npm install
     cd ../backend && npm install
 
