@@ -12,7 +12,7 @@ Database Configuration
 The application is connected to a MongoDB database. Before running the application, you will need to set up a MongoDB instance and provide the connection string.
 Steps:
 
-   *Setup MongoDB: Create a database on MongoDB.
+   *Setup MongoDB: Create a database on MongoDB , then create a collection and name it 'things'
    *Configure Connection: In the backend directory, create a .env file
    *Add Connection String: Inside the .env file, add the following line:
    
